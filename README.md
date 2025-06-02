@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # School Management System
 
 ## Descrição do Projeto
@@ -58,3 +59,6 @@ As rotas da API estão configuradas para manipular dados de estudantes e profess
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias e correções.
+=======
+# BrunoVer
+>>>>>>> 3ad396a419c53b10dddd43681cfdecca37b73974
